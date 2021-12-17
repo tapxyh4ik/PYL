@@ -1,2 +1,2 @@
-# PYLearn
+# PYL
 Custom programming language. 
